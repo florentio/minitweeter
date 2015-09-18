@@ -1,2 +1,2 @@
 # mytweets
-Mini Tweeter with Django framework 
+Mini Tweeter with Django framework   
